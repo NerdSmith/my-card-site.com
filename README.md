@@ -1,0 +1,1 @@
+Please configure "connection.php" with your username and password!
